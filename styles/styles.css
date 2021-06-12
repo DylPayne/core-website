@@ -1,0 +1,36 @@
+a {
+    color: #5e5e5e;
+}
+h1 {
+    color: white;
+    font-weight: 100;
+    font-size: 40px;
+}
+p {
+    color: white;
+    font-weight: 100;
+}
+
+.mini-navbar-icons {
+    color: rgb(175, 0, 16);
+}
+.mini-navbar-icons:hover {
+    color: black;
+}
+.carousel-icons {
+    font-size: 70px;
+}
+.testimonial-slide {
+    padding-left: 12% !important;
+    padding-right: 12% !important;
+}
+
+#col-spacer {
+    height: 200px;
+}
+#request-quote-btn {
+    background-color: rgb(156, 30, 20);
+    color: rgb(255, 255, 255);
+    width: 300px;
+    border-radius: 0;
+}
